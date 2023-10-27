@@ -1,0 +1,148 @@
+[
+  {
+    name: "Activated Fibre 90",
+    volume: 15.75,
+    mrp: 1709
+  },
+  {
+    name: "Active fiber complex",
+    volume: 22.95,
+    mrp: 2672
+  },
+  {
+    name: "Afresh Energy Drink",
+    volume: 7.8,
+    mrp: 848
+  },
+  {
+    name: "Aloe Plus",
+    volume: 9.4,
+    mrp: 1106
+  },
+  {
+    name: "Beta Heart Vanilla",
+    volume: 19.55,
+    mrp: 2342
+  },
+  {
+    name: "Brain Health",
+    volume: 15.1,
+    mrp: 1529
+  },
+  {
+    name: "Cell Activator60 Tab",
+    volume: 21.95,
+    mrp: 2313
+  },
+  {
+    name: "Cell - U - Loss 90 Tablets",
+    volume: 15.75,
+    mrp: 1780
+  },
+  {
+    name: "Dinoshake 200 g",
+    volume: 9.6,
+    mrp: 1164
+  },
+  {
+    name: "Formula 1 Nutritional",
+    volume: 21.75,
+    mrp: 2276
+  },
+  {
+    name: "H24 Rebuild Strength",
+    volume: 24.7,
+    mrp: 2731
+  },
+  {
+    name: "Herbal Aloe concentr",
+    volume: 24.95,
+    mrp: 2815
+  },
+  {
+    name: "Herbal Control",
+    volume: 32.95,
+    mrp: 3584
+  },
+  {
+    name: "Herbalife Calcium Tab",
+    volume: 10.25,
+    mrp: 1256
+  },
+  {
+    name: "Herbalife H24 Hydrate",
+    volume: 14.05,
+    mrp: 1709
+  },
+  {
+    name: "IHerbalifeline® 60",
+    volume: 25.75,
+    mrp: 2,
+    "": 785
+  },
+  {
+    name: "HN - Skin Booster - 30",
+    volume: 38.65,
+    mrp: 4082
+  },
+  {
+    name: "Immune Health",
+    volume: 15.8,
+    mrp: 1596
+  },
+  {
+    name: "Joint Support",
+    volume: 20.9,
+    mrp: 2563
+  },
+  {
+    name: "Male Factor +",
+    volume: 34.75,
+    mrp: 3559
+  },
+  {
+    name: "Multivitamin",
+    volume: 19.95,
+    mrp: 2091
+  },
+  {
+    name: "Niteworks .",
+    volume: 75,
+    mrp: 7442
+  },
+  {
+    name: "Ocular Defense",
+    volume: 19.25,
+    mrp: 2012
+  },
+  {
+    name: "Personaliz Protein200",
+    volume: 11.5,
+    mrp: 1352
+  },
+  {
+    name: "Personaliz Protein400",
+    volume: 22.5,
+    mrp: 2594
+  },
+  {
+    name: "ShakeMate",
+    volume: 6.45,
+    mrp: 681
+  },
+  {
+    name: "Simply Probiotic",
+    volume: 21.95,
+    mrp: 2306
+  },
+  {
+    name: "Triphala 60 Tablets",
+    volume: 11.25,
+    mrp: 1138
+  },
+  {
+    name: "Woman's Choice",
+    volume: 12.45,
+    mrp: 1298
+  }
+]

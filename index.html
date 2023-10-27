@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <h1>Herbalife Bill</h1>
+    <label for="fname">Name:</label>
+    <b><input type="text" id="fname" name="fname"><br><br></b>
+    <div class="container">
+        <table>
+            <tr>
+                <td>
+                    <label for="productSelect">Select a product:</label>
+                    <select id="productSelect">
+                        <option value="">-- Select a product --</option>
+                    </select>
+                </td>
+                <td>
+                    <label for="quantity">Quantity:</label>
+                    <input type="number" id="quantity" min="1" value="1">
+                </td>
+                <td>
+                    <label for="discount">Discount (%):</label>
+                    <input type="number" id="discount" min="0" max="100" step="1" value="15">
+                </td>
+                <td>
+                    <button id="addProductButton">Add Product</button>
+                </td>
+            </tr>
+        </table>
+
+        <table id="invoiceTable">
+            <thead>
+                <tr>
+                    <th>Product Name</th>
+                    <th>Volume Point</th>
+                    <th>MRP</th>
+                    <th>Discount (%)</th>
+                    <th>Quantity</th>
+                    <th>Discounted Price</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+
+        <!-- Invoice Total -->
+        <div id="invoiceTotal">
+            <p>Total MRP: ₹<span id="totalMRP">0</span></p>
+            <p>Total Discounted Amount: ₹<span id="totalDiscountedAmount">0</span></p>
+            <p>Total Volume Point: <span id="totalVolumePoint">0</span></p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
